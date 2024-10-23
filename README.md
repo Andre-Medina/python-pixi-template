@@ -12,7 +12,7 @@ pre-commit install
 
 You can get the `python.exe` file by:
 ```sh
-pixi r python_dir
+pixi r which python
 ```
 
 
