@@ -1,6 +1,5 @@
 [project]
 authors = [{name = "Andre Medina", email = "AndreMedina@hotmail.com.au"}]
-dependencies = ["black"]
 description = "Add a short description here"
 name = "pixi_py"
 requires-python = ">= 3.11"
@@ -21,7 +20,6 @@ pixi_py = { path = ".", editable = true }
 tests = "pytest"
 
 [tool.pixi.dependencies]
-black = ">=24.10.0,<25"
 rich = ">=13.9.3,<14"
 pytest = "*"
 pre-commit = ">=4.0.1,<5"
