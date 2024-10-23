@@ -18,6 +18,7 @@ pixi_py = { path = ".", editable = true }
 
 [tool.pixi.tasks]
 tests = "pytest"
+python_dir = "which python"
 
 [tool.pixi.dependencies]
 rich = ">=13.9.3,<14"

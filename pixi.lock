@@ -549,7 +549,7 @@ packages:
   name: pixi-py
   version: 0.1.0
   path: .
-  sha256: 703eea45b99044f63a5efb70fa533ea4336b0c1515f234b6537c98eadfdc1121
+  sha256: 5e07c8702c2e77c69e7402bc2e9a718b7237c767d85bee8a9f978215035f3b4b
   requires_python: '>=3.11'
   editable: true
 - kind: conda
